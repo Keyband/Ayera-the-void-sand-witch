@@ -1,0 +1,18 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/zero_matters.ogg-a36230811d210daf67268d0dc03f957e.oggstr"
+
+[deps]
+
+source_file="res://Resources/SFX/zero_matters.ogg"
+source_md5="04e1219e1dcada83c717066873d72aa4"
+
+dest_files=[ "res://.import/zero_matters.ogg-a36230811d210daf67268d0dc03f957e.oggstr" ]
+dest_md5="d91205f3e5ed251b5ba5b28b64ec21b2"
+
+[params]
+
+loop=true
+loop_offset=0
